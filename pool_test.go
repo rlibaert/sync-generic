@@ -3,7 +3,7 @@ package sync_test
 import (
 	"testing"
 
-	"github.com/oaiiae/sync-generic"
+	"github.com/rlibaert/sync-generic"
 	"github.com/stretchr/testify/require"
 )
 

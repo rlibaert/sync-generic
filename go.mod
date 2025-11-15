@@ -1,4 +1,4 @@
-module github.com/oaiiae/sync-generic
+module github.com/rlibaert/sync-generic
 
 go 1.23.8
 
